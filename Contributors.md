@@ -8,7 +8,8 @@ Dr. Neeta Verma
 Gopala Krishnan S  
 R S Mani  
 Abhishek Singh  
-Dr. Seema Khanna  
+Dr. Seema Khanna 
+ABC 
 
 ---------------------------------
 Industry and Academia Leadership
